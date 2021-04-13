@@ -1,7 +1,13 @@
-# Hio <img src="https://images.squarespace-cdn.com/content/v1/555a9fc2e4b048c87e18f80e/1538551976138-JWBE7UIJ3SLGCNENH2G1/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynMgxFZ6RzSE45ir_sniaZBw7FOrln7zsnpr66I7c2YLH858feRDDLIQWAxIBqV54/animat-heart.gif" width="30 px">
+# Hio 👋 
+[![Twitter Badge](https://img.shields.io/badge/-@sathiya1622-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sathiya1622)](https://twitter.com/sathiya1622)
+[![Linkedin Badge](https://img.shields.io/badge/-Sathiyanarayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathiyanarayanan-m/)](https://www.linkedin.com/in/sathiyanarayanan-m/)
+[![Gmail Badge](https://img.shields.io/badge/-sathiyastar2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sathiyastar2000@gmail.com)](mailto:sathiyastar2000@gmail.com)
 
 - 🌱 I’m currently working with Django
 - 📫 You can reach me on sathiyastar2000@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiyanarayanan-M&theme=vue-dark&layout=compact)]
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathiyanarayanan-M&&show_icons=true">
+
+![Sathiyanarayanan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Sathiyanarayanan-M&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
