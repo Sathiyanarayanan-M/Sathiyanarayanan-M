@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-sathiyastar2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sathiyastar2000@gmail.com)](mailto:sathiyastar2000@gmail.com)
 
 - 🌱 Currently Learning MERN stack development
-- 🔭 Familiar with with Django
+- 🔭 Familiar with Django
 
 
 
