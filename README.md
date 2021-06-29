@@ -1,6 +1,6 @@
 # Hio, I am Sathiyanarayanan👋 
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350px" />
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
 
 - 🌱 I’m currently learning MERN stack development
 - 👯 I’m looking to collaborate on django projects
