@@ -1,5 +1,4 @@
 # Hio, I am Sathiyanarayanan👋 
-<br>
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
 <br>
 - 🌱 I’m currently learning MERN stack development
